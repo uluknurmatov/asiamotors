@@ -1,0 +1,33 @@
+ .footer {
+    width: 100%;
+    height: auto;
+    background-color: #202F38;
+    padding-top: 70px;
+    color: #8B9297;
+    margin-top: 50px;
+}
+.footer p{
+    color: #8B9297;
+}
+.footer h5{
+    color: #8B9297;
+    font-weight: bold;
+}
+
+
+.footer_wrapper{
+    display: flex;
+    justify-content: space-between;
+}
+.logo h1{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 48px;
+   
+}
+
+.foot_icons{
+    display: flex;
+    justify-content:space-between;
+    margin-top: 25px;
+}

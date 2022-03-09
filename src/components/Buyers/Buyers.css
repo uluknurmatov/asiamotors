@@ -1,0 +1,44 @@
+.buyers_blocks{
+    display: flex;
+    margin-top: 45px;
+}
+.buyers_img{
+    margin-right: 35px;
+}
+.buyers_blocks h5{
+    font-weight: bold;
+}
+.guarantList{
+    display: flex;
+}
+dt{
+    padding: 16px 24px;
+    font-size: 24px;
+    font-weight: 500;
+    color: #45A70D;
+    background: #F3F9ED;
+    border-top: 2px solid #45A70D;
+    border-bottom: 1px solid #D8DDE1;
+}
+dl{
+    flex: 1;
+    border: 1px solid #D8DDE1;
+    border-top: 0;
+    margin-left: 20px;
+}
+.guarantList dd{
+    position: relative;
+    margin: 16px 20px;
+    padding-left: 12px;
+    font-size: 18px;
+    line-height: 1.4;
+}
+.guarantList img{
+    margin-right: 20px;
+}
+.not_garant dt{
+    color: #D10023;
+    background: #FFF3F3;
+    border-top: 2px solid #D10023;
+
+}

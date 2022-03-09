@@ -1,0 +1,20 @@
+.reviewList{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.reviews_block{
+    width: 33%;
+    border: 1px solid gray;
+    margin-bottom: 50px;
+}
+.reviews_block img{
+    width: 100%;
+}
+.rev_title{
+    margin: 15px 25px;
+    font-weight: bold;
+}
+.reviews_block p{
+    margin-left: 25px;
+}

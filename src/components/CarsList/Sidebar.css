@@ -1,0 +1,13 @@
+/* .MuiFormControl-fullWidth{
+    width: 15%!important;
+} */
+.slider_filter{
+    width: 20%;
+    padding: 16px;
+    border: 1px solid #ddd;
+    /* border-top: none; */
+}
+.slider_filter h5{
+    font-weight: bold;
+    padding: 20px 0;
+}

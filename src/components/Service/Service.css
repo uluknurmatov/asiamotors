@@ -1,0 +1,52 @@
+.service{
+    background-color: #2A3033;
+    margin-top: 90px;
+    padding: 80px 0;
+}
+.service_title{
+    color: white;
+    text-align: center;
+}
+.review_img{
+    width: 236px;
+    height: 170px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 4px;
+}
+.review_title{
+    padding-top: 13px;
+    font-size: 15px;
+    color: #FFF;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    word-break: break-all;
+    font-weight: 500;
+}
+.review_country{
+  
+    font-size: 14px;
+    color: #C1C6C9;
+}
+.service_more{
+    display: flex;
+    position: absolute;
+    top: 25px;
+    right: 0;
+    font-size: 15px;
+    color: #707578;
+    line-height: 18px
+}
+.service_container{
+    position: relative;
+}
+.service_more img{
+   width: 20px;
+   height: 20px;
+   margin-left: 5px;
+}
+.service_more p:hover{
+    color: #203F92;
+}

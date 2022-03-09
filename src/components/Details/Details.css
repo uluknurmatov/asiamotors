@@ -1,0 +1,130 @@
+.det_title{
+    font-weight: bold;
+    margin: 50px 0px;
+}
+.det_title_welcome{
+    display: flex;
+    justify-content: space-between;
+}
+.det_wrapper{
+    display: flex;
+}
+.det_welcome{
+    width: 50%;
+}
+.image_img{
+    width: 100%;
+    height: auto;
+    object-fit:cover;
+    /* overflow: hidden; */
+}
+
+.det_img{
+    margin-top: 25px;
+    margin-right: 10px;
+    width: 75px;
+    height: 75px;
+    
+}
+
+
+.det_img:hover{
+    border: 3px solid black;
+}
+
+.det_right{
+    margin-left: 20px;
+    font-size: 18px;
+}
+tbody{
+    border-width: 1px;
+}
+tr{
+    border-width: 1px;
+}
+td{
+    border-width: 1px;
+    width: 140px;
+    text-align: center;
+    padding: 15px 0;
+}
+.propert{
+    background-color: #eff1f1;
+}
+.val{
+    font-weight: bold;
+}
+.btn_buy{
+    text-align: center;
+    margin-top: 15px;
+}
+.btn_buy button{
+    width: 200px;
+    height: 35px;
+    border: none;
+    border-radius: 15px;
+    background-color: #d10023;
+    color: white;
+}
+#btn_cart{
+    background-color: white;
+    color: #d10023;
+    border: 2px solid #d10023;
+}
+.det_btn {
+    margin-top: 50px;
+   
+}
+.det_btn button{
+    width: 200px;
+    height: 35px;
+    border: none;
+    border-radius: 15px;
+    border: 2px solid #203F92;
+    background-color: white;
+    color: black;
+    margin-right: 15px;
+    font-weight: bold;
+}
+.det_price{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+.price_1{
+    font-weight: bold;
+}
+.price_2{
+    color: #d10023;
+    font-weight: bold;
+}
+
+/* Icons */
+.det_true{
+    /* width: 140px; */
+    height: 30px;
+    background-color:#eff1f1 ;
+    border: 0.px solid gray;
+    border-radius: 5px;
+    display: flex;
+    border: 1px solid #beb6b7;
+}
+.det_false{
+    width: 170px;
+    height: 30px;
+    background-color:#d10023 ;
+    border: 0.px solid gray;
+    border-radius: 5px;
+    display: flex;
+}
+.det_icons p{
+    text-align: center;
+    font-weight: bold;
+    margin: 2px 5px;
+}
+.grades{
+    display: flex;
+}
+.grade{
+    margin-right: 20px;
+}

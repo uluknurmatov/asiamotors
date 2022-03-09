@@ -1,0 +1,7 @@
+.carList{
+    display: flex;
+}
+.cardList{
+    margin-left: 50px;
+    width: 100%;
+}

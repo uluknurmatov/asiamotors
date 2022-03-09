@@ -1,0 +1,76 @@
+.LHD_content_cars{
+    display: flex;
+}
+.LHD_content{
+    display: flex;
+    justify-content: space-between;
+    /* flex-wrap: wrap; */
+}
+.brand_LHD{
+    font-weight: bold;
+    font-size: 22px;
+    margin-top: 50px;
+}
+.img_LHD{
+    margin-top: -35px;
+}
+.LHD_img{
+    width: 70px;
+    display: block;
+    margin: 0 auto;
+    padding-bottom: 15px;
+}
+.dl_block{
+    text-align: center;
+}
+dd{
+    font-size: 14px;
+    line-height: 1.5;
+    color: #45484b;
+}
+.LHD_btn{
+    text-align: center;
+    margin-top: 30px;
+}
+.LHD_btn button{
+    padding: 15px 30px;
+    border-radius: 30px;
+    background: #203F92;
+    font-size: 22px;
+    line-height: 24px;
+    color: #fff;
+    border: none;
+}
+.safe_img{
+    width: 90px;
+    margin-bottom: 25px;
+    margin-right: 50px;
+}
+.LHD_content_cars span{
+    display: inline-block;
+    padding: 20px 15px 0 10px;
+    font-size: 50px;
+    line-height: 51px;
+    color: #203F92;
+    font-weight: 300;
+    letter-spacing: -0.5px
+}
+.dl_num{
+    display: inline-block;
+    padding: 20px 0 0;
+    width: 340px;
+}
+.dl_num dt{
+    padding: 0 0 5px;
+    font-size: 20px;
+    line-height: 28px;
+    color: #444;
+    font-weight: bold;
+    letter-spacing: -0.2px;
+}
+.dl_num dd{
+
+    font-size: 15px;
+    line-height: 1.5;
+    color: #45484b;
+}

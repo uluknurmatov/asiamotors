@@ -1,0 +1,25 @@
+.Bis_img{
+    width: 100%;
+}
+.How_text{
+    font-weight: bold;
+    
+}
+.green{
+    margin-right: 8px;
+    color: #203F92;
+    padding: 20px 0;
+}
+.flexing{
+    display: flex;
+    justify-content: space-between;
+}
+#garant{
+    margin-top: 50px;
+    margin-right: 75px;
+}
+.txt{
+    margin-top: 24px;
+    font-size: 18px;
+    color: #45484b;
+}

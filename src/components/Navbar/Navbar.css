@@ -1,0 +1,30 @@
+.dropdown{
+    width: 250px;
+    
+}
+.navbar-light .navbar-nav .nav-link:hover {
+    color: #203F92;
+}
+.dropdown-item{
+font-size: 18px;
+}
+.dropdown-item:hover{
+    color: #203F92;
+}
+.nav-link{
+    color: black;
+    font-size: 18px;
+    padding-right: 150px;
+}
+.nav_title{
+    font-weight: bold;
+}
+.nav_wrapper{
+    display: flex;
+}
+.nav_item{
+margin-left: 10px;
+}
+.navbar_items{
+    padding-bottom: 25px;
+}
